@@ -10,6 +10,11 @@ Hello my name is Liam Plower and this is my System on Chip Design and Verificati
 I am adding a test sentence here at 13:24 on 03/12/24.
 
 ## **Template VGA Design**
+
+## **Week 1 Update
+
+This week I designed a French flag and started working on diagonal lines also. For the French flag it was pretty much the basics as I had to change the layout of 8 to 3. This was easy as I just had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. I also learned a few colours and how to get the likes of Red, Green, Blue, Yellow and a few more using the layout which was given to me at the start of the project. At the end of the Lab I started trying to learn diagonals and the maths behind it. I tried designing the Jamaica flag as this uses two yellow diagonal lines.
+
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
