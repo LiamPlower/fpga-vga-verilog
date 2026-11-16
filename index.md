@@ -36,7 +36,7 @@ I started breaking down part by part like simulation, synthesis, implementation 
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
+<img width="1140" height="736" alt="image" src="https://github.com/user-attachments/assets/ed12a70c-0674-4d54-ae8f-ebecae751269" />
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
