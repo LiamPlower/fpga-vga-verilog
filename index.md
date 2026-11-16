@@ -13,10 +13,14 @@ I am adding a test sentence here at 13:24 on 03/12/24.
 
 ## **Week 1 Update
 
-This week I designed a French flag and started working on diagonal lines also. For the French flag it was pretty much the basics as I had to change the layout of 8 to 3. This was easy as I just had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. I also learned a few colours and how to get the likes of Red, Green, Blue, Yellow and a few more using the layout which was given to me at the start of the project. At the end of the Lab I started trying to learn diagonals and the maths behind it. I tried designing the Jamaica flag as this uses two yellow diagonal lines.
+I started of with using both templates the striped cycle and the slideshow like cycle changing every few seconds. I stook with the stripe cycle and messed around with the colours used and changed them to get used to the code. I ended up designing a French flag(Blue, White and Red) and started working on diagonal lines also for a Jamaican flag. For the French flag it was pretty much the basics as I had to change the layout of 8 to 3 stripes. I had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. I got to learn new colour codes and how to get the likes of Red, Green, Blue, Yellow and a few more colours using the layout which was given to me at the start of the project. At the end of the Lab I started trying to learn diagonals and the maths behind it. I tried designing the Jamaica flag as this uses two yellow diagonal lines.
 
 ## **Week 2 Update
-This week, I worked on the Jamaican flag in Verilog, correcting the positioning of the green and black sections to match the actual flag design. I also changed the original bright green (4'b1111) to hunter green (4'b0110) to achieve a more realistic colour. Additionally, I researched the mathematics behind the diagonal lines to better understand how the equations and pixel coordinates work.
+This week, I worked on the Jamaican flag in Verilog, correcting the positioning of the green and black sections to match the actual flag design. I also changed the original bright green (4'b1111) to hunter green (4'b0110) to achieve a more realistic colour. Additionally, I researched the mathematics behind the diagonal lines to better understand how the equations and pixel coordinates work. I would have broken it down and ran through each section as synthesis, implementation and generating the bitsream. Breaking down code for diaganol: <img width="750" height="441" alt="image" src="https://github.com/user-attachments/assets/b7ab1e7a-867f-4cbd-9523-b79f70628007" />
+
+
+## **Week 3 Update
+I went back over the maths behind the Jamaican flag and getting the diagonal lines.
 
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
