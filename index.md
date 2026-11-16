@@ -18,6 +18,9 @@ I started of with using both templates the striped cycle and the slideshow like 
 
 https://github.com/user-attachments/assets/5bf92647-7ab9-460b-9d3b-46187efbdfb3
 
+<img width="579" height="647" alt="image" src="https://github.com/user-attachments/assets/5d11c2d0-58a3-4cf0-8b07-fe1d3a6c9c6e" />
+
+
 
 
 
