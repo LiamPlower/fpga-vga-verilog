@@ -34,7 +34,7 @@ I started breaking down part by part like simulation, synthesis, implementation 
 
 
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
+The project was created in Xilinx Vivado using the appropriate FPGA board and device settings. The Verilog sources files were added to the project, along with the required constraint files. The design was then simulated, synthesised, implementated and generated through bitstream. The project summary provides an overview of the project configuration, source files and design status.
 
 <img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/290f4a41-cf6a-4535-892d-0f054db4eda2" />
 ### **Template Code**
