@@ -42,11 +42,11 @@ I started breaking down part by part like simulation, synthesis, implementation 
 
 
 ### **Project Set-Up**
-The project was created in Xilinx Vivado using the appropriate FPGA board and device settings. The Verilog sources files were added to the project, along with the required constraint files. The design was then simulated, synthesised, implementated and generated through bitstream. The project summary provides an overview of the project configuration, source files and design status.
+The project was created in Xilinx Vivado using the appropriate FPGA board and device settings. The Verilog sources files were added to the project, along with the required constraint files. The design was then simulated, synthesised, implemented and generated through bitstream. The project summary provides an overview of the project configuration, source files and design status. At the start we were given a BASYS3 prototype board to build the project on which was connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors. We would have don ea few labs before the start of the project also to test and learn how to code and work the application so we would not struggle to build a project.
 
 <img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/290f4a41-cf6a-4535-892d-0f054db4eda2" />
 
-At the start of week 1 we were given a BASYS3 prototype board to build the project on which was connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors.
+
 
 ## **My VGA Design Edit**
 My initial idea was the France flag and then a more complex flag like the Jamaica flag. With starting off with the France flag it was easy to design as it was just a basic three striped flag. Adding the Jamaica flag was much more intricate as it was 4 triangles shaped all diffrently in a way with two diagonal lines splitting it up like an X.
