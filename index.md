@@ -47,11 +47,15 @@ At the start of week 1 we were given a BASYS3 prototype board to build the proje
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 
 ### **Simulation**
-I started the design on the board and tested it in simulation. I wrote a testbench that powers up the design, applies a reset, and feeds it a clock signal. The simulation shows clk, rst, hsync, vsync, vid_on, row, col, red, green and blue. My rows value is 0 while my columns value is counting up in 1s. You can see with the colours what it starts off with as the first values we received were red and green f making yellow which was where the simulation began.
+I started the design on the board and tested it in simulation. I wrote a testbench that powers up the design, applies a reset, and feeds it a clock signal. The simulation shows clk, rst, hsync, vsync, vid_on, row, col, red, green and blue. My rows value is 0 while my columns value is counting up in 1s. Also with the addition of blue, red and green it helps create the colours, inside green and red you can see an F which basically shows and tells that they are combining to create yellow to start the simulation with the colour yellow.
 <img width="1044" height="421" alt="image" src="https://github.com/user-attachments/assets/6b5e8485-b80d-44b8-bd5c-76271a74b04e" />
 
 ### **Synthesis**
-Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+After simulation, I synthesised the design, which turns the Verilog code into the actual hardware parts the FPGA has, such as logic blocks and flip-flops. I then ran implementation, where the tool places those parts on the chip and wires them together. I checked the timing report to make sure the design meets timing at the 25 MHz pixel clock, and I checked the utilisation report to see how much of the chip the design uses. Finally, I generated the bitstream, which is the file that configures the FPGA, and loaded it onto the board to test the VGA output on a monitor.
+<img width="345" height="496" alt="image" src="https://github.com/user-attachments/assets/a6218366-d1fe-4c1e-baf5-b1d48af7b51e" />
+<img width="802" height="317" alt="image" src="https://github.com/user-attachments/assets/b68e63d6-a9bd-4b05-b1a2-01f9ad87e546" />
+
+
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
