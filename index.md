@@ -36,11 +36,11 @@ I started breaking down part by part like simulation, synthesis, implementation 
 The project was created in Xilinx Vivado using the appropriate FPGA board and device settings. The Verilog sources files were added to the project, along with the required constraint files. The design was then simulated, synthesised, implementated and generated through bitstream. The project summary provides an overview of the project configuration, source files and design status.
 
 <img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/290f4a41-cf6a-4535-892d-0f054db4eda2" />
-At the start of week 1 we were given a BASYS3 prototype board to build the project on connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors.
+At the start of week 1 we were given a BASYS3 prototype board to build the project on which was connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors.
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
-Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
+I started the design on the board and tested it in simulation. I wrote a testbench that powers up the design, applies a reset, and feeds it a clock signal. I then ran it for at least one full screen refresh so I could watch everything the VGA signals do in one frame. In the waveform, I checked that the horizontal counter counts from 0 to 799 and then restarts, and that the vertical counter counts from 0 to 524 and then restarts. I also checked that HSYNC and VSYNC drop low for the correct short pulses 96 clock cycles for HSYNC and 2 lines for VSYNC. Finally, I confirmed that the video on signal is only high when the counters are inside the visible 640×480 area, and that the colour outputs go to zero outside it. Everything matched the VGA timing standard, so I was confident the design was ready to test on the board.
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 ### **Demonstration**
