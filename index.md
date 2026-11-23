@@ -50,6 +50,9 @@ My initial idea was the France flag and then a more complex flag like the Jamaic
 ### **Simulation**
 I started the design on the board and tested it in simulation. I wrote a testbench that powers up the design, applies a reset, and feeds it a clock signal. The simulation shows clk, rst, hsync, vsync, vid_on, row, col, red, green and blue. My rows value is 0 while my columns value is counting up in 1s. Also with the addition of blue, red and green it helps create the colours, inside green and red you can see an F which basically shows and tells that they are combining to create yellow to start the simulation with the colour yellow.
 <img width="1044" height="421" alt="image" src="https://github.com/user-attachments/assets/6b5e8485-b80d-44b8-bd5c-76271a74b04e" />
+<img width="681" height="110" alt="image" src="https://github.com/user-attachments/assets/9d5574da-c542-4c74-95e5-d9535217f263" />
+The simulation now shows red and blue as 0 and green as 6 showing that the colour has changed from yellow to green. It uses 6 as its a different shade of green not the original green_reg <= 4'b1111;. I used hunter green (4'b0110) to get the green to get as close as possible to the same shade of green as the Jamaica flag.
+
 
 ### **Synthesis**
 After simulation, I synthesised the design, which turns the Verilog code into the actual hardware parts the FPGA has, such as logic blocks and flip-flops. I then ran implementation, where the tool places those parts on the chip and wires them together. I checked the timing report to make sure the design meets timing at the 25 MHz pixel clock, and I checked the utilisation report to see how much of the chip the design uses. Finally, I generated the bitstream, which is the file that configures the FPGA, and loaded it onto the board to test the VGA output on a monitor. Zoomed in to find out that the outputs for J17 and J18 are J17 = vgaGREEN_OBUF and J18 = vgaBlue_OBUF so these are the VGA colours output buffers.
