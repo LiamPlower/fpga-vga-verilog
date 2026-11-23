@@ -37,6 +37,7 @@ I started breaking down part by part like simulation, synthesis, implementation 
 The project was created in Xilinx Vivado using the appropriate FPGA board and device settings. The Verilog sources files were added to the project, along with the required constraint files. The design was then simulated, synthesised, implementated and generated through bitstream. The project summary provides an overview of the project configuration, source files and design status.
 
 <img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/290f4a41-cf6a-4535-892d-0f054db4eda2" />
+At the start of week 1 we were given a BASYS3 prototype board to build the project on connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors.
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
