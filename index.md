@@ -30,7 +30,7 @@ This week, I worked on the Jamaican flag in Verilog, correcting the positioning 
 
 
 ## **Week 3 Update
-I started breaking down part by part like simulation, synthesis, implementation and bitstream. Started with simulation to get the Testbench and breaking it down to understand how it works. <img width="575" height="640" alt="image" src="https://github.com/user-attachments/assets/39b79181-7dc8-441b-9cdb-0d504f10fba6" />
+I started breaking down part by part like simulation, synthesis, implementation and bitstream. Started with simulation to get the Testbench and breaking it down to understand how it works. You can now see that the Jamaica Flag is completely finished and looks like the original. I also got the Testbench to run this week to view the graphs.<img width="575" height="640" alt="image" src="https://github.com/user-attachments/assets/39b79181-7dc8-441b-9cdb-0d504f10fba6" />
 
 
 ### **Project Set-Up**
