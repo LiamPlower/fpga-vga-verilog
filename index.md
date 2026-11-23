@@ -85,9 +85,5 @@ I then started the Jamaica flag it was the same type of structure but I had to a
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
-
-
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
-
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
+## review
+## conclusion
