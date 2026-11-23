@@ -45,6 +45,7 @@ The project was created in Xilinx Vivado using the appropriate FPGA board and de
 At the start of week 1 we were given a BASYS3 prototype board to build the project on which was connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors.
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
+
 ### **Simulation**
 I started the design on the board and tested it in simulation. I wrote a testbench that powers up the design, applies a reset, and feeds it a clock signal. The simulation shows clk, rst, hsync, vsync, vid_on, row, col, red, green and blue. My rows value is 0 while my columns value is counting up in 1s. You can see with the colours what it starts off with as the first values we received were red and green f making yellow which was where the simulation began.
 <img width="1044" height="421" alt="image" src="https://github.com/user-attachments/assets/6b5e8485-b80d-44b8-bd5c-76271a74b04e" />
