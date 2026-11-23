@@ -43,8 +43,9 @@ The project was created in Xilinx Vivado using the appropriate FPGA board and de
 
 <img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/290f4a41-cf6a-4535-892d-0f054db4eda2" />
 At the start of week 1 we were given a BASYS3 prototype board to build the project on which was connected using an HDMI to a Micro B to the college PC's and then we were also given a VGA to VGA cable to connect the BASYS3 to the college monitors.
-### **Template Code**
-Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
+
+## **My VGA Design Edit**
+My initial idea was the France flag and then a more complex flag like the Jamaica flag. With starting off with the France flag it was easy to design as it was just a basic three striped flag. Adding the Jamaica flag was much more intricate as it was 4 triangles shaped all diffrently in a way with two diagonal lines splitting it up like an X.
 
 ### **Simulation**
 I started the design on the board and tested it in simulation. I wrote a testbench that powers up the design, applies a reset, and feeds it a clock signal. The simulation shows clk, rst, hsync, vsync, vid_on, row, col, red, green and blue. My rows value is 0 while my columns value is counting up in 1s. Also with the addition of blue, red and green it helps create the colours, inside green and red you can see an F which basically shows and tells that they are combining to create yellow to start the simulation with the colour yellow.
@@ -55,18 +56,9 @@ After simulation, I synthesised the design, which turns the Verilog code into th
 <img width="345" height="496" alt="image" src="https://github.com/user-attachments/assets/a6218366-d1fe-4c1e-baf5-b1d48af7b51e" />
 <img width="802" height="317" alt="image" src="https://github.com/user-attachments/assets/b68e63d6-a9bd-4b05-b1a2-01f9ad87e546" />
 
-
-### **Demonstration**
-Perhaps add a picture of your demo. Guideline: 1/2 sentences.
-
-## **My VGA Design Edit**
-Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
-### **Simulation**
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
-### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
