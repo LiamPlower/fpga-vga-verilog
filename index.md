@@ -1,9 +1,9 @@
----
+## **
 layout: home
 title: FPGA VGA Driver Project
 tags: fpga vga verilog
 categories: demo
----
+
 
 Hello my name is Liam Plower and this is my System on Chip Design and Verification Project.
 
