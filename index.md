@@ -66,9 +66,12 @@ After simulation, I synthesised the design, which turns the Verilog code into th
 ### **Code Adaptation**
 Starting off with the template code and changing it for the France flag all I had to change was the colours and the layout of 8 to 3 stripes. I had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. 
 <img width="421" height="286" alt="image" src="https://github.com/user-attachments/assets/efbd33f2-5483-4e99-85d0-5ec17e1d1fb4" />
+
 I then started the Jamaica flag it was the same type of structure but I had to add in the maths for the creation of the two diagonal lines. So I used input [10:0] row, col to show it works for the pixel size. I wud have also added the maths to create the diagonal lines and the maths checked if the pixels are within 100 units of either diagonal line, creating a thicker line effect. There was also maths then for the colours outside the diagonal lines checking whether the pixels are positioned below both diagonal lines or above.
+
 <img width="242" height="81" alt="image" src="https://github.com/user-attachments/assets/9bb2c450-d171-40bc-88c7-16d7b4196102" />
-<img width="748" height="425" alt="image" src="https://github.com/user-attachments/assets/b67d9a11-1ec0-4a8f-b8bc-33aca814617d" />
+<img width="727" height="505" alt="image" src="https://github.com/user-attachments/assets/6bf0a8bd-dbc5-44a6-8358-e53962bf7bd6" />
+
 
 
 
