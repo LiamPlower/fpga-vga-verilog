@@ -1,4 +1,4 @@
-## ** Title: FPGA VGA Driver Project
+## ** Title: FPGA VGA Driver Project**
 
 Hello my name is Liam Plower and this is my System on Chip Design and Verification Project.
 
