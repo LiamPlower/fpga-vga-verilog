@@ -12,7 +12,9 @@ Hello my name is Liam Plower and this is my System on Chip Design and Verificati
 
 ## **Week 1 Update
 
-I started of with using both templates the striped cycle and the slideshow like cycle changing every few seconds. I stook with the stripe cycle and messed around with the colours used and changed them to get used to the code. I ended up designing a French flag(Blue, White and Red) and started working on diagonal lines also for a Jamaican flag. For the French flag it was pretty much the basics as I had to change the layout of 8 to 3 stripes. I had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. I got to learn new colour codes and how to get the likes of Red, Green, Blue, Yellow and a few more colours using the layout which was given to me at the start of the project. At the end of the Lab I started trying to learn diagonals and the maths behind it. I tried designing the Jamaica flag as this uses two yellow diagonal lines. <img width="582" height="646" alt="image" src="https://github.com/user-attachments/assets/2dd742e2-46f2-4d06-afeb-dc26359421c7" />  
+I started of with using both templates the striped cycle and the slideshow like cycle changing every few seconds. I stook with the stripe cycle and messed around with the colours used and changed them to get used to the code. I ended up designing a French flag(Blue, White and Red) and started working on diagonal lines also for a Jamaican flag. For the French flag it was pretty much the basics as I had to change the layout of 8 to 3 stripes. I had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. I got to learn new colour codes and how to get the likes of Red, Green, Blue, Yellow and a few more colours using the layout which was given to me at the start of the project. At the end of the Lab I started trying to learn diagonals and the maths behind it. I tried designing the Jamaica flag as this uses two yellow diagonal lines. 
+
+<img width="582" height="646" alt="image" src="https://github.com/user-attachments/assets/2dd742e2-46f2-4d06-afeb-dc26359421c7" />  
 
 
 https://github.com/user-attachments/assets/5bf92647-7ab9-460b-9d3b-46187efbdfb3
@@ -32,6 +34,7 @@ This code checks the position of each pixel on the screen using its X and Y coor
 
 ## **Week 3 Update
 I started breaking down part by part like simulation, synthesis, implementation and bitstream. Started with simulation to get the Testbench and breaking it down to understand how it works. You can now see that the Jamaica Flag is completely finished and looks like the original. I also got the Testbench to run this week to view the graphs.
+
 <img width="575" height="640" alt="image" src="https://github.com/user-attachments/assets/39b79181-7dc8-441b-9cdb-0d504f10fba6" />
 
 
