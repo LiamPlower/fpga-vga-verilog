@@ -52,9 +52,13 @@ I started the design on the board and tested it in simulation. I wrote a testben
 <img width="1044" height="421" alt="image" src="https://github.com/user-attachments/assets/6b5e8485-b80d-44b8-bd5c-76271a74b04e" />
 
 ### **Synthesis**
-After simulation, I synthesised the design, which turns the Verilog code into the actual hardware parts the FPGA has, such as logic blocks and flip-flops. I then ran implementation, where the tool places those parts on the chip and wires them together. I checked the timing report to make sure the design meets timing at the 25 MHz pixel clock, and I checked the utilisation report to see how much of the chip the design uses. Finally, I generated the bitstream, which is the file that configures the FPGA, and loaded it onto the board to test the VGA output on a monitor.
+After simulation, I synthesised the design, which turns the Verilog code into the actual hardware parts the FPGA has, such as logic blocks and flip-flops. I then ran implementation, where the tool places those parts on the chip and wires them together. I checked the timing report to make sure the design meets timing at the 25 MHz pixel clock, and I checked the utilisation report to see how much of the chip the design uses. Finally, I generated the bitstream, which is the file that configures the FPGA, and loaded it onto the board to test the VGA output on a monitor. Zoomed in to find out that the outputs for J17 and J18 are J17 = vgaGREEN_OBUF and J18 = vgaBlue_OBUF so these are the VGA colours output buffers.
 <img width="345" height="496" alt="image" src="https://github.com/user-attachments/assets/a6218366-d1fe-4c1e-baf5-b1d48af7b51e" />
 <img width="802" height="317" alt="image" src="https://github.com/user-attachments/assets/b68e63d6-a9bd-4b05-b1a2-01f9ad87e546" />
+<img width="499" height="367" alt="image" src="https://github.com/user-attachments/assets/201cee32-149d-48f0-958a-ec314c58d7d8" />
+<img width="479" height="354" alt="image" src="https://github.com/user-attachments/assets/7f1de0c8-751a-473b-8f0c-64cc33ec46c4" />
+
+
 
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
