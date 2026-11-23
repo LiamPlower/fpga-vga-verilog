@@ -7,7 +7,6 @@ categories: demo
 
 Hello my name is Liam Plower and this is my System on Chip Design and Verification Project.
 
-I am adding a test sentence here at 13:24 on 03/12/24.
 
 ## **Template VGA Design**
 
