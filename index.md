@@ -64,7 +64,9 @@ After simulation, I synthesised the design, which turns the Verilog code into th
 
 
 ### **Code Adaptation**
-Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+Starting off with the template code and changing it for the France flag all I had to change was the colours and the layout of 8 to 3 stripes. I had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. 
+<img width="421" height="286" alt="image" src="https://github.com/user-attachments/assets/efbd33f2-5483-4e99-85d0-5ec17e1d1fb4" />
+
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
