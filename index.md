@@ -59,9 +59,9 @@ After simulation, I synthesised the design, which turns the Verilog code into th
 
 <img width="345" height="496" alt="image" src="https://github.com/user-attachments/assets/a6218366-d1fe-4c1e-baf5-b1d48af7b51e" />
 
-<img width="802" height="317" alt="image" src="https://github.com/user-attachments/assets/b68e63d6-a9bd-4b05-b1a2-01f9ad87e546" />
+<img width="793" height="712" alt="image" src="https://github.com/user-attachments/assets/c1ca0d95-0292-4ded-b541-dd1fc6b0349b" />
 
-<img width="499" height="367" alt="image" src="https://github.com/user-attachments/assets/201cee32-149d-48f0-958a-ec314c58d7d8" />
+<img width="297" height="246" alt="image" src="https://github.com/user-attachments/assets/a25e6a05-0dac-4ff5-a73a-3119935f20ca" />
 
 <img width="479" height="354" alt="image" src="https://github.com/user-attachments/assets/7f1de0c8-751a-473b-8f0c-64cc33ec46c4" />
 
