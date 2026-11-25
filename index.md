@@ -69,6 +69,13 @@ After simulation, I synthesised the design, which turns the Verilog code into th
 
 <img width="1000" height="451" alt="image" src="https://github.com/user-attachments/assets/5c9bdf06-60b0-4b21-8d35-d4293699ef5d" />
 
+### **Implementation Design**
+
+<img width="391" height="503" alt="image" src="https://github.com/user-attachments/assets/2e3e5bb1-6b92-46c5-a6ed-cf115bfb8c12" />
+
+<img width="460" height="456" alt="image" src="https://github.com/user-attachments/assets/47257f99-c103-4fce-9d9e-1a040228dc4d" />
+
+<img width="779" height="412" alt="image" src="https://github.com/user-attachments/assets/60100371-767b-4067-a983-bd2f23792233" />
 
 
 
