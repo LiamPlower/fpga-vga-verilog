@@ -92,13 +92,27 @@ I then started the Jamaica flag it was the same type of structure but I had to a
 
 ### **Code Snippet**
 
+### **u_colour_stripes: ColourStripes**
+
 <img width="694" height="751" alt="image" src="https://github.com/user-attachments/assets/905a381f-ceb1-41fb-93f3-f87c5557048c" />
 
 <img width="828" height="748" alt="image" src="https://github.com/user-attachments/assets/7366eaed-0f69-4a07-b117-ad27c604ad6a" />
 
 <img width="366" height="422" alt="image" src="https://github.com/user-attachments/assets/4a006210-984c-4ebb-bd86-c2114c1e3ec8" />
 
+### **VGATop**
+
 <img width="693" height="588" alt="image" src="https://github.com/user-attachments/assets/4478fa95-c5ab-4be1-89ac-a88e470aa685" />
+
+### **u_vga_sync: VGASync**
+
+<img width="509" height="752" alt="image" src="https://github.com/user-attachments/assets/ab4f2122-0032-4468-9321-413a444f66de" />
+
+<img width="365" height="213" alt="image" src="https://github.com/user-attachments/assets/a4823960-df1c-40b1-9f6a-ab21dbe35661" />
+
+
+
+
 
 
 
