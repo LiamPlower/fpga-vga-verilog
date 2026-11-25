@@ -84,6 +84,6 @@ I then started the Jamaica flag it was the same type of structure but I had to a
 
 
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+<img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/290f4a41-cf6a-4535-892d-0f054db4eda2" />
 ## review
 ## conclusion
