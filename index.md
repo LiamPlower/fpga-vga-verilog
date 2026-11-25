@@ -85,6 +85,5 @@ I then started the Jamaica flag it was the same type of structure but I had to a
 
 ### **Demonstration**
 <img width="575" height="640" alt="image" src="https://github.com/user-attachments/assets/39b79181-7dc8-441b-9cdb-0d504f10fba6" />
-In the end, I got the Jamaica flag finished with the design of 
-## review
-## conclusion
+To conclude my demonstration, I used Vivado to write and implement VHDL code that generates the Jamaiacan Flag on a screen using VGA output. The code defines the different sections of the flag by controlling the red, green and blue colour signals to create black, green and yellow on the screen. It also uses diagonal lines which I had to learn about to add to my project. After implementing the code in Vivado and programming the FPGA, I was able to successfully display the Jamaican flag on the monitor. This demonstrates how VHDL and FPGA technology can be used to create graphical outputs using VGA.
+
