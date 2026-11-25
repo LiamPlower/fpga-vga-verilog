@@ -102,11 +102,11 @@ I then started the Jamaica flag it was the same type of structure but I had to a
 
 ### **VGATop**
 
-<img width="693" height="588" alt="image" src="https://github.com/user-attachments/assets/4478fa95-c5ab-4be1-89ac-a88e470aa685" />
+<img width="686" height="599" alt="image" src="https://github.com/user-attachments/assets/4574b6ca-6743-4170-a3ab-148a726ab3de" />
 
 ### **u_vga_sync: VGASync**
 
-<img width="509" height="752" alt="image" src="https://github.com/user-attachments/assets/ab4f2122-0032-4468-9321-413a444f66de" />
+<img width="527" height="753" alt="image" src="https://github.com/user-attachments/assets/d20e940f-6c78-47d5-a9f9-b0cf921e2b6f" />
 
 <img width="365" height="213" alt="image" src="https://github.com/user-attachments/assets/a4823960-df1c-40b1-9f6a-ab21dbe35661" />
 
