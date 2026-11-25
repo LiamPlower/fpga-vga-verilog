@@ -65,6 +65,11 @@ After simulation, I synthesised the design, which turns the Verilog code into th
 
 <img width="479" height="354" alt="image" src="https://github.com/user-attachments/assets/7f1de0c8-751a-473b-8f0c-64cc33ec46c4" />
 
+### **Elaborated Design**
+
+<img width="1000" height="451" alt="image" src="https://github.com/user-attachments/assets/5c9bdf06-60b0-4b21-8d35-d4293699ef5d" />
+
+
 
 
 ### **Code Adaptation**
@@ -77,6 +82,17 @@ I then started the Jamaica flag it was the same type of structure but I had to a
 <img width="242" height="81" alt="image" src="https://github.com/user-attachments/assets/9bb2c450-d171-40bc-88c7-16d7b4196102" />
 
 <img width="727" height="505" alt="image" src="https://github.com/user-attachments/assets/6bf0a8bd-dbc5-44a6-8358-e53962bf7bd6" />
+
+### **Code Snippet**
+
+<img width="694" height="751" alt="image" src="https://github.com/user-attachments/assets/905a381f-ceb1-41fb-93f3-f87c5557048c" />
+
+<img width="828" height="748" alt="image" src="https://github.com/user-attachments/assets/7366eaed-0f69-4a07-b117-ad27c604ad6a" />
+
+<img width="366" height="422" alt="image" src="https://github.com/user-attachments/assets/4a006210-984c-4ebb-bd86-c2114c1e3ec8" />
+
+<img width="693" height="588" alt="image" src="https://github.com/user-attachments/assets/4478fa95-c5ab-4be1-89ac-a88e470aa685" />
+
 
 
 
