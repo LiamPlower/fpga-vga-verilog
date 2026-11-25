@@ -1,9 +1,9 @@
-## **Title: FPGA VGA Driver Project**
+### **Title: FPGA VGA Driver Project**
 
 Hello my name is Liam Plower and this is my System on Chip Design and Verification Project.
 
 
-## **Week 1 Update
+### **Week 1 Update**
 
 I started of with using both templates the striped cycle and the slideshow like cycle changing every few seconds. I stook with the stripe cycle and messed around with the colours used and changed them to get used to the code. I ended up designing a French flag(Blue, White and Red) and started working on diagonal lines also for a Jamaican flag. For the French flag it was pretty much the basics as I had to change the layout of 8 to 3 stripes. I had to change the column size from 80 pixels across for the 8 to 3 columns by dividing 640 by 3. I got to learn new colour codes and how to get the likes of Red, Green, Blue, Yellow and a few more colours using the layout which was given to me at the start of the project. At the end of the Lab I started trying to learn diagonals and the maths behind it. I tried designing the Jamaica flag as this uses two yellow diagonal lines. 
 
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/5bf92647-7ab9-460b-9d3b-46187efbdfb3
 
 
 
-## **Week 2 Update
+### **Week 2 Update**
 This week, I worked on the Jamaican flag in Verilog, correcting the positioning of the green and black sections to match the actual flag design, i started it by mixing up the green and black in the flag and I made the yellow diaganol lines way too skinny so I had to work on fixing it. I also changed the original bright green (4'b1111) to hunter green (4'b0110) to achieve a more realistic colour. Additionally, I researched the mathematics behind the diagonal lines to better understand how the equations and pixel coordinates work. I would have broken it down and ran through each section as synthesis, implementation and generating the bitstream. Breaking down code for diagonal: 
 <img width="750" height="441" alt="image" src="https://github.com/user-attachments/assets/b7ab1e7a-867f-4cbd-9523-b79f70628007" />  
 
@@ -28,7 +28,7 @@ This code checks the position of each pixel on the screen using its X and Y coor
 
 
 
-## **Week 3 Update
+### **Week 3 Update**
 I started breaking down part by part like simulation, synthesis, implementation and bitstream. Started with simulation to get the Testbench and breaking it down to understand how it works. You can now see that the Jamaica Flag is completely finished and looks like the original. I also got the Testbench to run this week to view the graphs.
 
 <img width="575" height="640" alt="image" src="https://github.com/user-attachments/assets/39b79181-7dc8-441b-9cdb-0d504f10fba6" />
